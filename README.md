@@ -2,15 +2,7 @@
 
 The script can be used to generate static database health check in oracle database
 
-   Life          Life
-  LifeLifeLifeLifeLife
-LifeLifeLifeLifeLifeLife
-LifeLifeLifeLifeLifeLife
-LifeLifeLifeLifeLifeLife
-  LifeLifeLifeLifeLife
-    LifeLifeLifeLife
-      LifeLifeLife
-          Life
+
           
           
  The script includes the following metrics which is produced in HTML format. The output can be used in latest browsers like chrome, firefox etc.
